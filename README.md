@@ -6,7 +6,7 @@ AI Music Studio는 사용자가 텍스트 프롬프트나 오디오 파일을 �
 새로운 음악을 생성하고, 내장된 AI 비트 메이커를 통해 독창적인 드럼
 패턴을 만들 수 있는 웹 애플리케이션입니다.
 
-[[![Project Screenshot](images/screenshot.png)](https://github.com/BCH1235/musicgen-app/raw/main/images/screenshot.png)](https://github.com/BCH1235/musicgen-app/blob/main/images/screenshot.png)
+![Project Screenshot](images/screenshot.png)
 
 ------------------------------------------------------------------------
 
